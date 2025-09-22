@@ -1,4 +1,4 @@
-# Gesture Control System
+# Gesture Control Recognition System
 
 A computer vision-based application that allows you to control your computer's volume and screen brightness using hand gestures captured through your webcam.
 
